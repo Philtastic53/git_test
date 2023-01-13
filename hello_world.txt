@@ -1,0 +1,4 @@
+Hello world!
+Hola world!
+basicMath = 2 + 2
+Pikachu!
